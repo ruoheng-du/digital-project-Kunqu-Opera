@@ -1,1 +1,2 @@
-# digital-project-Kunqu-Opera
+# Perspectives on the Humanities: Digital Identities | Fall 2021
+This is the repository for the digital project done in CCCF-SHU 101W41 course at NYU Shanghai during Fall 2021. There are three assignment reports and one project report (in collaboration with Victoria Fu) throughout the semester and the programming language is R. The datasets, reports, and R markdown can be found in the directories. Please feel free to email me at rd2910@nyu.edu for any more information.
